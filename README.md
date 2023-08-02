@@ -1,9 +1,18 @@
 # test-markdown
 
-再点で対応が可能です。
-※「再点」とは、移転先に電気のメーターがある場合にのみ、その建物で電気を使えるようにすることを指します。
+## Test markdown with asterisk
 
-再点(移転)を実施する場合は、必要な以下の情報をご準備の上、**お客様からFTカスタマー(0120-081-486)**へ
-ご連絡願います。
-参考資料の「【マニュアル】【Elenova】再点について.pdf」、
-再点の対応フローにつきましては「【Elenova】再点フロー図.pdf」をご確認くださいませ。)
+ - Bolding does not work:
+1.  **お客様からFTカスタマー(0120-081-486)**へ (sample code)
+2.  **test with space at the end **abc
+3.  ** text with space at the beginning**abc
+4.  **text with special symbol at the end)**abc
+
+ - Bolding works:
+1. **text without special symbol at the end**extra text
+2. **text with space after the asterisk** extra text
+3. **text with a parenthesis at the end and a special symbol after the asterisk(test)**?extratext
+
+## Special symbol
+ - The special symbol should be: !@#%&()-_[]{}\|:;'",./?
+ - These symbols will not work with the example about: $^=+<>`
