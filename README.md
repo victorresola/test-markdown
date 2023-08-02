@@ -12,6 +12,7 @@
 1. **text without special symbol at the end**extra text
 2. **text with space after the asterisk** extra text
 3. **text with a parenthesis at the end and a special symbol after the asterisk(test)**?extratext
+4. **この日本語（テスト）**、もいいです
 
 ## Special symbol
  - The special symbol should be: !@#%&()-_[]{}\|:;'",./?
