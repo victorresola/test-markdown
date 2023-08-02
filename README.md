@@ -17,3 +17,11 @@
 ## Special symbol
  - The special symbol should be: !@#%&()-_[]{}\|:;'",./?
  - These symbols will not work with the example about: $^=+<>`
+
+
+**tét**
+
+弊社受領日から2週間後以降の検針日に切り替わります。
+
+**※名義不一致エラー等のエラーがあった場合、エラーが全て解消されてから2週間後以降となります。
+※検針日はお客様ごとに異なります。**
